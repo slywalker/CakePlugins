@@ -16,4 +16,4 @@ Add your app/Config/bootstrap.php
 
 ##Update
 
-	git submodule update --recursive
+	git submodule update --init --recursive
