@@ -1,12 +1,12 @@
 [submodule "TwitterBootstrap"]
 	path = TwitterBootstrap
-	url = git@github.com:slywalker/TwitterBootstrap.git
+	url = git://github.com/slywalker/TwitterBootstrap.git
 [submodule "CakeEmailPlus"]
 	path = CakeEmailPlus
-	url = git@github.com:slywalker/CakeEmailPlus.git
+	url = git://github.com/slywalker/CakeEmailPlus.git
 [submodule "MysqlUtil"]
 	path = MysqlUtil
-	url = git@github.com:slywalker/MysqlUtil.git
+	url = git://github.com/slywalker/MysqlUtil.git
 [submodule "Search"]
 	path = Search
 	url = git://github.com/CakeDC/search.git
@@ -18,7 +18,7 @@
 	url = git://github.com/CakeDC/TinyMCE.git
 [submodule "Uploader"]
 	path = Uploader
-	url = git://github.com/slywalker/cake-uploader.git
+	url = git://github.com/milesj/cake-uploader.git
 [submodule "DataSources"]
 	path = DataSources
 	url = git://github.com/cakephp/datasources.git
