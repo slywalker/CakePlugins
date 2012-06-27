@@ -31,3 +31,12 @@
 [submodule "Opauth"]
 	path = Opauth
 	url = git://github.com/uzyn/cakephp-opauth.git
+[submodule "Strategy/Facebook"]
+	path = Strategy/Facebook
+	url = git://github.com/uzyn/opauth-facebook.git
+[submodule "Strategy/Google"]
+	path = Strategy/Google
+	url = git://github.com/uzyn/opauth-google.git
+[submodule "Strategy/Twitter"]
+	path = Strategy/Twitter
+	url = git://github.com/uzyn/opauth-twitter.git
