@@ -28,9 +28,6 @@
 [submodule "Localized"]
 	path = Localized
 	url = git://github.com/cakephp/localized.git
-[submodule "Opauth"]
-	path = Opauth
-	url = git://github.com/uzyn/cakephp-opauth.git
 [submodule "Strategy/Facebook"]
 	path = Strategy/Facebook
 	url = git://github.com/uzyn/opauth-facebook.git
@@ -40,3 +37,6 @@
 [submodule "Strategy/Twitter"]
 	path = Strategy/Twitter
 	url = git://github.com/uzyn/opauth-twitter.git
+[submodule "Opauth"]
+	path = Opauth
+	url = git://github.com/uzyn/cakephp-opauth.git
