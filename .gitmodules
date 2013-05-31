@@ -6,7 +6,7 @@
 	url = git://github.com/slywalker/CakeEmailPlus.git
 [submodule "MysqlUtil"]
 	path = MysqlUtil
-	url = git://github.com/slywalker/MysqlUtil.git
+	url = git://github.com/slywalker/cakephp-plugin-mysql_util.git
 [submodule "Search"]
 	path = Search
 	url = git://github.com/CakeDC/search.git
