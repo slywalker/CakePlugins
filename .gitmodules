@@ -18,7 +18,7 @@
 	url = git://github.com/CakeDC/TinyMCE.git
 [submodule "Uploader"]
 	path = Uploader
-	url = git://github.com/milesj/cake-uploader.git
+	url = git://github.com/milesj/Uploader.git
 [submodule "DataSources"]
 	path = DataSources
 	url = git://github.com/cakephp/datasources.git
